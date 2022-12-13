@@ -1,5 +1,5 @@
-	;use two botton to present 0/1 to tell microcontroller the word first
-	;then use an other botton to let controller send the word to ad9833
+	;use two botton to present 0/1 to tell microcontroller a 16-bit word
+	;then use another botton to let controller send the word to ad9833
 	;hope i'll know what words to send to get the wanted output
 
 	;(OUTPUT) AD9833
