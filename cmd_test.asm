@@ -123,4 +123,4 @@ SHIFT2:	RLC	A
 	RET
 
 ;it's strange that even when the words are correctly sent(the waveforms oscilloscope shows are all good i think)
-;the output maybe wrong. why?
+;the output may be wrong. why?
